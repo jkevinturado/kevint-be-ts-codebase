@@ -1,8 +1,6 @@
-# oceanadevs-api
+# Backend (Monolith) Typescript Codebase
 
-#### by: Kevin Turado
-
-##### Description: A work Monolith codebase base on TypeScript, NodeJS, and Express.js,
+Description: A work Monolith codebase base on TypeScript, NodeJS, and Express.js,
 
 ---
 
@@ -62,3 +60,5 @@
 #### Current Features:
 
 - Custom Error Handler
+
+#### Author: Kevin Turado
